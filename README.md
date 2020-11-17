@@ -7,7 +7,7 @@
         <p>Foodfy é um projeto realizado durante o <strong>Bootcamp</strong> da <strong>Rocketseat.</strong></p>
         </li>
         <li>
-        <p>Um projeto voltado à culinária (um site de receitas, com gerenciamento de usuários), baseado em tecnologias que fazem sentido juntas.</p>
+        <p>Trata-se de um projeto voltado à culinária (um site de receitas, com gerenciamento de usuários), baseado nas tecnologias usadas usadas durante o bootcamp.</p>
         </li>
     </ul>
 </body>
