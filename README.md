@@ -1,7 +1,8 @@
 <h1 align="center">
   <a href="https://github.com/abner-starkasty/Foodfy/raw/master/readme-assets/chef.png">
   <img 
-    src="/readme-assets/chef.png"
+    src="/Foodfy-master/public/images/layouts/assets/chef.png"
+       
     width="200px"
     alt="Logo do LaunchBase">
 </h1>
