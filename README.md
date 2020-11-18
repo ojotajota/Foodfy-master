@@ -82,8 +82,7 @@ Considere em limpar o banco eventualmente, executando os comandos finais do arqu
 
 
 # 📝Licença
-
-Este projeto está sob a [licença MIT](https://github.com/ojotajota/foodfy-master/blob/master/LICENSE).
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENCE](https://github.com/ojotajota/foodfy-master/blob/master/LICENSE) para mais detalhes.
 
 
 ### 👨‍💻 Desenvolvedor
