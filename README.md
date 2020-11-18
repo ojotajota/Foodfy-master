@@ -1,3 +1,4 @@
+
 ![chef](https://user-images.githubusercontent.com/50853522/99476440-54552500-292f-11eb-8a97-a1b6588005d8.png)
 
 
@@ -42,80 +43,10 @@ O projeto **Foodfy** é um site de receitas culinárias. Esse projeto foi propos
 <p align="center">
 As seguintes ferramentas foram usadas na solução dos desafios:
 
-<p align="center">
-    <a href="https://www.javascript.com/">
-        <img 
-            src="/readme-assets/icon-javascript.svg" 
-            alt="logo JavaScript"
-            width="50px"
-            style="border-radius: 8px;">
-    </a>
-    <a href="http://www.ecma-international.org/ecma-262/6.0/">
-        <img 
-            src="/readme-assets/icon-ecmascript6.svg" 
-            alt="logo ECS6"
-            width="50px"
-            style="border-radius: 8px;">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img 
-            src="/readme-assets/icon-css3.svg" 
-            alt="logo CSS3"
-            width="50px"
-            style="border-radius: 8px;">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img 
-            src="/readme-assets/icon-html5.svg" 
-            alt="logo HTML5"
-            width="50px"
-            style="border-radius: 8px;">
-    </a>
-    <a href="https://mozilla.github.io/nunjucks/">
-        <img 
-            src="/readme-assets/icon-nunjucks.svg" 
-            alt="logo HTML5"
-            width="52px"
-            style="border-radius: 8px;">
-    </a>
-    <a href="https://nodejs.org/en/">
-        <img 
-            src="/readme-assets/icon-nodejs.svg" 
-            alt="logo Node.js"
-            width="50px"
-            style="border-radius: 8px;">
-    </a>
-    <a href="https://expressjs.com/">
-        <img 
-            src="/readme-assets/icon-express2.png" 
-            alt="logo framework express"
-            width="85px">
-    </a>
-    <a href="https://git-scm.com/">
-        <img 
-            src="/readme-assets/icon-git.svg" 
-            alt="logo git"
-            width="50px">
-    </a>
-    <a href="https://github.com/">
-        <img 
-            src="/readme-assets/icon-gitHub2.svg" 
-            alt="logo git"
-            width="50px">
-    </a>
-    <a href="https://www.postgresql.org/">
-        <img 
-            src="/readme-assets/icon-postgresql.svg" 
-            alt="logo postgreSQL"
-            width="50px">
-    </a>
-    <a href="https://code.visualstudio.com/">
-        <img 
-            src="/readme-assets/icon-vscode.svg" 
-            alt="logo vsCode"
-            width="50px">
-    </a>
-</p>
+
+   ![icons](https://user-images.githubusercontent.com/50853522/99478705-a4ce8180-2933-11eb-8ee2-2f4c685e78f0.jpg)
+
+
 
 ##### 👉 Ferramentas necessárias:
 - Editor:
@@ -143,7 +74,7 @@ As seguintes ferramentas foram usadas na solução dos desafios:
 
 5. Após configurar o arquivo _db.js_ e criar o banco, execute o arquivo seed.js (`node seed.js`) para popular alguns dados e testar a aplicação.
 
-6. Execute `npm start` para iniciar a aplicação. Abra o navegador em (**http://localhost:5000/**)
+6. Execute `npm start` para iniciar a aplicação automaticamente. Abra o navegador em (**http://localhost:5000/**)
     * Obs: ***Tome Cuidado*** ao __excluir__ as entidades, pois _**a grande maioria das imagens**_ serão compartilhadas entre si, caso exclua algum chefe, usuário ou receita, reponha uma imagem como padrão no caminho **public/images/recipes-and-chefs/**, sendo __chefs.jpg__ para chefes e __recipes.png__ para receitas.
 
 ### Um pouco mais de arroz
