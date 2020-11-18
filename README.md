@@ -1,7 +1,6 @@
 <h1 align="center">
   <img 
-    Foodfy-master/public/images/layouts/assets/chef.png"
-       
+    src="Foodfy-master/public/images/layouts/assets/chef.png"
     width="200px"
     alt="Logo do LaunchBase">
 </h1>
@@ -124,7 +123,7 @@ As seguintes ferramentas foram usadas na solução dos desafios:
 
 ##### 👉 Ferramentas necessárias:
 - Editor:
-    - [Vscode](https://code.visualstudio.com/) foi utilizado nesse projeto; 
+- [Vscode](https://code.visualstudio.com/) foi utilizado nesse projeto; 
 - [Node.Js](https://nodejs.org/en/) - Instalado em sua máquina;
 - [Git](https://git-scm.com/downloads) - Instalado em sua máquina;
 
