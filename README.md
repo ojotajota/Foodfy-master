@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="/public/images/layouts/assets/logo-chef.png" width="200"/>
+   ![alt Foodfy](https://github.com/ojotajota/Foodfy-master/blob/public/images/layouts/assets/logo-chef.png?raw=true)
 </p>
 
 <h4 align="center">
