@@ -1,6 +1,9 @@
-<p align="center">
-   ![alt Foodfy](https://github.com/ojotajota/Foodfy-master/blob/public/images/layouts/assets/logo-chef.png?raw=true)
-</p>
+<h1 align="center">
+  <img 
+    "https://github.com/ojotajota/Foodfy-master/blob/master/public/images/layouts/assets/chef.png"
+    width="200px"
+    alt="Logo do LaunchBase">
+</h1>
 
 <h4 align="center">
   🍕🍗  FoodFy  🚀
