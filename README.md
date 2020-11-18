@@ -1,5 +1,6 @@
 
-![chef](https://user-images.githubusercontent.com/50853522/99476440-54552500-292f-11eb-8a97-a1b6588005d8.png)
+![icons](https://user-images.githubusercontent.com/50853522/99481334-a77fa580-2938-11eb-86bf-49dbfccc2eba.jpg)
+
 
 
 <h4 align="center">
@@ -43,9 +44,7 @@ O projeto **Foodfy** é um site de receitas culinárias. Esse projeto foi propos
 <p align="center">
 As seguintes ferramentas foram usadas na solução dos desafios:
 
-
-   ![icons](https://user-images.githubusercontent.com/50853522/99478705-a4ce8180-2933-11eb-8ee2-2f4c685e78f0.jpg)
-
+![Screenshot_1](https://user-images.githubusercontent.com/50853522/99481398-cda54580-2938-11eb-993e-c56e93f50eab.jpg)
 
 
 ##### 👉 Ferramentas necessárias:
