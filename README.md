@@ -53,11 +53,9 @@ As seguintes ferramentas foram usadas na solução dos desafios:
 
 ##### 👉 Após instalar as ferramentas:
 
-## `Como Utilizar:`
-
 1. Baixe [o projeto] com:
-    * `git clone()`    
-    `$ git clone https://github.com/ojotajota/Foodfy-master`
+        
+    * `$ git clone https://github.com/ojotajota/Foodfy-master`
     
     **ou**
     
@@ -71,10 +69,10 @@ As seguintes ferramentas foram usadas na solução dos desafios:
 
 5. Após configurar o arquivo _db.js_ e criar o banco, execute o arquivo seed.js (`node seed.js`) para popular alguns dados e testar a aplicação.
 
-6. Execute `npm start` para iniciar a aplicação automaticamente. Abra o navegador em (**http://localhost:5000/**)
+6. Execute `npm start` para iniciar a aplicação automaticamente, ou abra o navegador em (**http://localhost:5000/**)
     * Obs: ***Tome Cuidado*** ao __excluir__ as entidades, pois _**a grande maioria das imagens**_ serão compartilhadas entre si, caso exclua algum chefe, usuário ou receita, reponha uma imagem como padrão no caminho **public/images/recipes-and-chefs/**, sendo __chefs.jpg__ para chefes e __recipes.png__ para receitas.
 
-## Um pouco mais de arroz
+## Sobre a área logada
 
 Para utlizar o serviço de email, configure o [mailtrap] no arquivo **src/lib/mailer.js**, colocando suas credenciais.
 
