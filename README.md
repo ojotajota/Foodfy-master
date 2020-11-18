@@ -4,7 +4,7 @@
 
 
 # Foodfy 🚀
-
+![foodfy](https://user-images.githubusercontent.com/50853522/99481804-a69b4380-2939-11eb-9f3c-583fda0ec648.gif)
 <p align="center">
   <a href="https://www.linkedin.com/in/juscelino-j%C3%BAnior-19aab5113/">
     <img 
