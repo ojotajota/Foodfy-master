@@ -81,6 +81,11 @@ Todas as senhas do seed.js são padronizadas ('123'), pegue um email da tabela u
 Considere em limpar o banco eventualmente, executando os comandos finais do arquivo **foodfy.sql** (está na tag `--restart to run seed.js`).
 
 
+# Licença
+
+Este projeto está sob a [licença MIT] (https://https://github.com/ojotajota/Foodfy-master/blob/main/LICENSE).
+
+
 ### 👨‍💻 Desenvolvedor
 
 <p align="center">
