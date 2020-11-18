@@ -57,7 +57,7 @@ As seguintes ferramentas foram usadas na solução dos desafios:
 
 1. Baixe [o projeto] com:
     * `git clone()`    
-    $ git clone https://github.com/ojotajota/Foodfy-master
+    `$ git clone https://github.com/ojotajota/Foodfy-master`
     
     **ou**
     
