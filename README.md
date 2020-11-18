@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="Foodfy-master/public/images/layouts/assets/logo-chef.png" width="200"/>
+   <img src="/public/images/layouts/assets/logo-chef.png" width="200"/>
 </p>
 
 <h4 align="center">
