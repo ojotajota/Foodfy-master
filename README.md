@@ -1,5 +1,4 @@
 <h1 align="center">
-  <a href="https://github.com/abner-starkasty/Foodfy/raw/master/readme-assets/chef.png">
   <img 
     Foodfy-master/public/images/layouts/assets/chef.png"
        
