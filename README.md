@@ -3,9 +3,7 @@
 
 
 
-<h4 align="center">
-  🍕🍗  FoodFy  🚀
-</h4>
+# Foodfy 🚀
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juscelino-j%C3%BAnior-19aab5113/">
@@ -76,7 +74,7 @@ As seguintes ferramentas foram usadas na solução dos desafios:
 6. Execute `npm start` para iniciar a aplicação automaticamente. Abra o navegador em (**http://localhost:5000/**)
     * Obs: ***Tome Cuidado*** ao __excluir__ as entidades, pois _**a grande maioria das imagens**_ serão compartilhadas entre si, caso exclua algum chefe, usuário ou receita, reponha uma imagem como padrão no caminho **public/images/recipes-and-chefs/**, sendo __chefs.jpg__ para chefes e __recipes.png__ para receitas.
 
-### Um pouco mais de arroz
+## Um pouco mais de arroz
 
 Para utlizar o serviço de email, configure o [mailtrap] no arquivo **src/lib/mailer.js**, colocando suas credenciais.
 
