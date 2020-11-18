@@ -1,6 +1,6 @@
 <h1 align="center">
   <img 
-    src="Foodfy-master/public/images/layouts/assets/chef.png"
+    public="Foodfy-master/public/images/layouts/assets/chef.png"
     width="200px"
     alt="Logo do LaunchBase">
 </h1>
