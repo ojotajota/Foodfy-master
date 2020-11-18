@@ -187,7 +187,7 @@ Considere em limpar o banco eventualmente, executando os comandos finais do arqu
     </a>
     <a href="https://www.facebook.com/juscelinomcjunior/">
         <img 
-            alt="facebook Abner Willys" 
+            alt="facebook Juscelino Júnior" 
             src="https://img.shields.io/badge/-Juscelino%20Junior-%234267b2?style=flat-square&logo=facebook&logoColor=white">
     </a>
     
