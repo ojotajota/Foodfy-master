@@ -1,12 +1,9 @@
-<h1 align="center">
-  <img 
-    public="Foodfy-master/public/images/layouts/assets/chef.png"
-    width="200px"
-    alt="Logo do LaunchBase">
-</h1>
+<p align="center">
+   <img src="Foodfy-master/public/images/layouts/assets/logo-chef.png" width="200"/>
+</p>
 
 <h4 align="center">
-  🍕🍗  FoodFy 🚀
+  🍕🍗  FoodFy  🚀
 </h4>
 
 <p align="center">
