@@ -1,6 +1,4 @@
-
-<![chef](https://user-images.githubusercontent.com/50853522/99476440-54552500-292f-11eb-8a97-a1b6588005d8.png)
-
+![chef](https://user-images.githubusercontent.com/50853522/99476440-54552500-292f-11eb-8a97-a1b6588005d8.png)
 
 
 <h4 align="center">
@@ -130,8 +128,7 @@ As seguintes ferramentas foram usadas na solução dos desafios:
 ## `Como Utilizar:`
 
 1. Baixe [o projeto] com:
-    * `git clone()`
-    # Clonar repositório
+    * `git clone()`    
     $ git clone https://github.com/ojotajota/Foodfy-master
     
     **ou**
